@@ -75,8 +75,8 @@ The full table is in the [Project Highlights](docs/DepoVaultTick_Project_Highlig
 
 | Document | Covers |
 |---|---|
-| [Project Highlights](docs/DepoVaultTick_Project_Highlights.pdf) | The product story, feature highlights and engineering decisions |
-| [00 · App Overview](docs/00_DepoVaultTick_Overview.pdf) | The whole app on one page, with a map of every section |
+| [Project Highlights](DepoVaultTick_Project_Highlights.pdf) | The product story, feature highlights and engineering decisions |
+| [00 · App Overview](00_DepoVaultTick_Overview.pdf) | The whole app on one page, with a map of every section |
 
 ### Foundations
 
