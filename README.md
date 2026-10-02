@@ -71,55 +71,53 @@ The full table is in the [Project Highlights](docs/DepoVaultTick_Project_Highlig
 
 ## Documentation
 
-Each part of the app has its own plain-English guide, with no source code. GitHub does not preview Word files, so open a link and choose **Download**.
-
 ### Start here
 
 | Document | Covers |
 |---|---|
-| [Project Highlights](docs/DepoVaultTick_Project_Highlights.docx) | The product story, feature highlights and engineering decisions |
-| [00 · App Overview](docs/00_DepoVaultTick_Overview.docx) | The whole app on one page, with a map of every section |
+| [Project Highlights](docs/DepoVaultTick_Project_Highlights.pdf) | The product story, feature highlights and engineering decisions |
+| [00 · App Overview](docs/00_DepoVaultTick_Overview.pdf) | The whole app on one page, with a map of every section |
 
 ### Foundations
 
 | Document | Covers |
 |---|---|
-| [01 · Setup & Startup](01_Setup_and_Startup.docx) | Packages, Android build, theme and splash screen |
-| [02 · Home Screen](02_Home_Screen.docx) | The hub, badges, bell and backup buttons |
-| [03 · Notifications & Alerts](03_Notifications_and_Alerts.docx) | The six-period alert list and the red / yellow warning system |
-| [04 · App Lock & Privacy](04_App_Lock_and_Privacy.docx) | The three-secret lock, biometrics, privacy settings and About |
+| [01 · Setup & Startup](01_Setup_and_Startup.pdf) | Packages, Android build, theme and splash screen |
+| [02 · Home Screen](02_Home_Screen.pdf) | The hub, badges, bell and backup buttons |
+| [03 · Notifications & Alerts](03_Notifications_and_Alerts.pdf) | The six-period alert list and the red / yellow warning system |
+| [04 · App Lock & Privacy](04_App_Lock_and_Privacy.pdf) | The three-secret lock, biometrics, privacy settings and About |
 
 ### Family & Vault
 
 | Document | Covers |
 |---|---|
-| [05 · Family & Banks](05_Family_and_Banks.docx) | People, banks and the family-wide view |
-| [06 · Deposits](06_Deposits.docx) | Fixed and Recurring Deposits and their dashboard |
-| [07 · Insurance](07_Insurance.docx) | Policies, premiums, maturities and their dashboard |
-| [08 · Post Office](08_Post_Office.docx) | Savings schemes and their dashboard |
-| [09 · Mutual Funds](09_Mutual_Funds.docx) | SIPs, lump sums and their dashboard |
+| [05 · Family & Banks](05_Family_and_Banks.pdf) | People, banks and the family-wide view |
+| [06 · Deposits](06_Deposits.pdf) | Fixed and Recurring Deposits and their dashboard |
+| [07 · Insurance](07_Insurance.pdf) | Policies, premiums, maturities and their dashboard |
+| [08 · Post Office](08_Post_Office.pdf) | Savings schemes and their dashboard |
+| [09 · Mutual Funds](09_Mutual_Funds.pdf) | SIPs, lump sums and their dashboard |
 
 ### Everyday sections
 
 | Document | Covers |
 |---|---|
-| [10 · Daily Log](10_Daily_Log.docx) | Expenses, reminders, calendar and dashboard |
-| [11 · Notes](11_Notes.docx) | The sticky-note corkboard |
-| [12 · Stash](12_Stash.docx) | The private secrets keeper and its own lock |
+| [10 · Daily Log](10_Daily_Log.pdf) | Expenses, reminders, calendar and dashboard |
+| [11 · Notes](11_Notes.pdf) | The sticky-note corkboard |
+| [12 · Stash](12_Stash.pdf) | The private secrets keeper and its own lock |
 
 ### Work tools
 
 | Document | Covers |
 |---|---|
-| [13 · Work: Invoices](13_Work_Invoices.docx) | The invoice wizard, saved invoices and billing dashboard |
-| [14 · Work: Rolodex & Certificates](14_Work_Rolodex_and_Certificates.docx) | Contacts and certificate tracking |
+| [13 · Work: Invoices](13_Work_Invoices.pdf) | The invoice wizard, saved invoices and billing dashboard |
+| [14 · Work: Rolodex & Certificates](14_Work_Rolodex_and_Certificates.pdf) | Contacts and certificate tracking |
 
 ### Data and shared parts
 
 | Document | Covers |
 |---|---|
-| [15 · Backup, Export & Import](15_Backup_Export_and_Import.docx) | Encrypted backups, merge-and-review restore, Excel, CSV and PDF output |
-| [16 · Shared Building Blocks](16_Shared_Building_Blocks.docx) | Storage, sound, pickers and common components |
+| [15 · Backup, Export & Import](15_Backup_Export_and_Import.pdf) | Encrypted backups, merge-and-review restore, Excel, CSV and PDF output |
+| [16 · Shared Building Blocks](16_Shared_Building_Blocks.pdf) | Storage, sound, pickers and common components |
 
 ---
 
