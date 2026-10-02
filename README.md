@@ -2,6 +2,8 @@
 
 **One private Android app for a family's money, memory and work.**
 
+Built In DART CODE
+
 DepoVaultTick keeps a household's financial records, daily expenses, notes, secrets and work paperwork in one place, entirely on the phone and behind its own locks. It warns the owner in **red** and **yellow** before anything matures, falls due or expires.
 
 > This repository contains plain-English documentation of the app. The source code is not published here.
