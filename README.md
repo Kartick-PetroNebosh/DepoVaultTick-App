@@ -65,7 +65,7 @@ One app, five sections, a single combined alert list, and one consistent set of 
 | Rich text in a plain text box | Text is stored as short styled "runs" that join back into the exact sentence |
 | Overnight shifts | An end time that isn't later than the start is rolled into the next day |
 
-The full table is in the [Project Highlights](docs/DepoVaultTick_Project_Highlights.docx) document.
+The full table is in the [Project Highlights](DepoVaultTick_Project_Highlights.pdf) document.
 
 ---
 
